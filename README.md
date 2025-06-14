@@ -18,10 +18,6 @@ An Android application for real-time edge detection using the device camera and 
 - Android Studio
 - Git & GitHub
 
-## 🖼️ Screenshots
-
-![Edge Detection Sample](Screenshot 2025-06-15 013248.png)
-
 
 ## 🛠️ Setup Instructions
 
