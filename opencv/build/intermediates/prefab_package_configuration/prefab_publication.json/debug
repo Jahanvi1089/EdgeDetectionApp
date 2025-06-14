@@ -1,0 +1,26 @@
+{
+  "installationFolder": "C:\\Users\\JAHANVI\\AndroidStudioProjects\\EdgeDetectionApp\\opencv\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":opencv",
+  "packageInfo": {
+    "packageName": "opencv",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\JAHANVI\\AndroidStudioProjects\\EdgeDetectionApp\\opencv\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": [
+          {
+            "abiName": "x86_64",
+            "abiApi": 24,
+            "abiNdkMajor": 27,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\JAHANVI\\AndroidStudioProjects\\EdgeDetectionApp\\opencv\\.cxx\\Debug\\4i02kwe6\\x86_64\\libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\JAHANVI\\AndroidStudioProjects\\EdgeDetectionApp\\opencv\\.cxx\\Debug\\4i02kwe6\\x86_64\\android_gradle_build.json"
+          }
+        ]
+      }
+    ]
+  }
+}
